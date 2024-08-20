@@ -1,0 +1,7 @@
+- 👋 Hi there! I’m Gopinath Thangavel.
+- 👀 My passions lie at the crossroads of Artificial Intelligence, Machine Learning, and innovative tech—always on the hunt for the next groundbreaking idea.
+- 🌱 Currently, I’m diving deep into AI/ML and tinkering with Generative AI to push the boundaries of what's possible.
+- 💞️ I’m eager to collaborate on projects that challenge norms and drive tech evolution, especially in AI, ML, and RPA.
+- 📫 Want to connect? Find me on [LinkedIn](https://www.linkedin.com/in/gopinath-thangavel), drop me an [email](mailto:gopin0914@gmail.com), or check out my work on [GitHub](https://github.com/gobii23).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: If your code runs never touch it again!!
