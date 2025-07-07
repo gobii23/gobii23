@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning and ComfyUI<br>👯 I’m looking to collaborate on ComfyUI<br>🤝 I’m looking for help with Video generation using Flux-dev.01<br>🌱 I’m currently learning Image Processing using Machine Learning<br>💬 Ask me about Image and Video generation
+🔭 I’m currently working on Machine Learning and ComfyUI<br>👯 I’m looking to collaborate on Gen AI<br>🤝 I’m looking for help with Video generation using Flux-dev.01<br>🌱 I’m currently learning Image Processing using Machine Learning<br>💬 Ask me about Image and Video generation
 
 
 ## 🌐 Socials:
